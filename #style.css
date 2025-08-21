@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+:root {
+    --cor-principal: #f8b5d6;
+    --cor-secundaria: #fce4ec;
+    --cor-detalhes: #e91e63;
+    --cor-detalhes-escuros: #7b1fa2;
+    --light: #fff9fb;
+    --cor-texto: #4a2a3a;
+}
